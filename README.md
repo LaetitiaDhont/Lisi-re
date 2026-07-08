@@ -87,6 +87,6 @@ Pour tester le prototype sur Xcode :
    git clone [https://github.com/](https://github.com/)[LaetitiaDhont]/lisiere-app.git
    
 2. Pour tester le prototype sur Xcode :
-
-cd lisiere-app
-open Lisiere.xcodeproj
+   ```bash
+   cd lisiere-app
+   open Lisiere.xcodeproj
